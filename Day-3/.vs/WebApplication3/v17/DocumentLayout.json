@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|c:\\users\\mandi\\source\\repos\\webapplication3\\webapplication3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|c:\\users\\mandi\\source\\repos\\webapplication3\\webapplication3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|c:\\users\\mandi\\source\\repos\\webapplication3\\webapplication3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|c:\\users\\mandi\\source\\repos\\webapplication3\\webapplication3\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\views\\account\\success.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|c:\\users\\mandi\\source\\repos\\webapplication3\\webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|c:\\users\\mandi\\source\\repos\\webapplication3\\webapplication3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{824AA4A7-6C34-4B7F-AD63-89171923CE2B}|WebApplication3\\WebApplication3.csproj|solutionrelative:webapplication3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Program.cs",
+              "ToolTip": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Program.cs*",
+              "RelativeToolTip": "WebApplication3\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:17:57.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Success.cshtml",
+              "DocumentMoniker": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Account\\Success.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Account\\Success.cshtml",
+              "ToolTip": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Account\\Success.cshtml*",
+              "RelativeToolTip": "WebApplication3\\Views\\Account\\Success.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T08:17:23.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication3\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "WebApplication3\\Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-04T08:16:28.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "WebApplication3\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:12:15.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Models\\AppDbContext.cs*",
+              "RelativeToolTip": "WebApplication3\\Models\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:11:30.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "WebApplication3\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\mandi\\source\\repos\\WebApplication3\\WebApplication3\\Models\\User.cs*",
+              "RelativeToolTip": "WebApplication3\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T08:10:53.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
