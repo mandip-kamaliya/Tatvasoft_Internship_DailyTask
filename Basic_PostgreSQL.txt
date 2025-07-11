@@ -1,3 +1,5 @@
+
+//basic postgres
 -- Create database
 CREATE DATABASE TEMP_FIRST;
 
